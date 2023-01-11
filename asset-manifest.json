@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea62d67b.css",
-    "main.js": "/static/js/main.6846723b.js",
-    "static/media/game_casino.gif": "/static/media/game_casino.1f88eb6a2304770f6a13.gif",
-    "static/media/game_ludo.gif": "/static/media/game_ludo.1c5024f62ab940c69b6e.gif",
-    "static/media/blockchain.gif": "/static/media/blockchain.06d5b703148039eb977d.gif",
-    "static/media/service2.gif": "/static/media/service2.502966b50cad979babae.gif",
-    "static/media/game.gif": "/static/media/game.2a573cbd871091859298.gif",
-    "static/media/service.gif": "/static/media/service.843abb47b9288735108b.gif",
-    "static/media/shoping.gif": "/static/media/shoping.763c9be259115ddb7550.gif",
-    "static/media/mobile_dev.gif": "/static/media/mobile_dev.2ef9b6df4d21ea151a10.gif",
-    "static/media/bitcoin1.gif": "/static/media/bitcoin1.16a10a24b0d885bc4743.gif",
-    "static/media/cryexch.gif": "/static/media/cryexch.5b37fbefc11a73b229d4.gif",
-    "static/media/crypto_animation.gif": "/static/media/crypto_animation.e5abc13325e7ca1c7280.gif",
-    "static/media/web3.gif": "/static/media/web3.b0d34e67167e762ae232.gif",
-    "static/media/bitcoin_1.gif": "/static/media/bitcoin_1.aab21d0e87b4af0f7797.gif",
-    "static/media/game_card.gif": "/static/media/game_card.cfc6961deebd7530ec4c.gif",
+    "main.css": "/static/css/main.ddf59967.css",
+    "main.js": "/static/js/main.d62ad838.js",
+    "static/media/game.svg": "/static/media/game.066ec7a395effed4e3a7e48062d574fa.svg",
+    "static/media/casino.svg": "/static/media/casino.37350db8b64048f9f655d7b0cbce4a1c.svg",
+    "static/media/game_card.svg": "/static/media/game_card.f22dfa638fb14a0ca6e281c12d5d1fc8.svg",
+    "static/media/mobileappdev.svg": "/static/media/mobileappdev.913dcb0cf4507754c70b803dfe9192b8.svg",
+    "static/media/home.svg": "/static/media/home.bdb2a996ee87f8ceb9a652cf8afaf634.svg",
+    "static/media/game_ludo.svg": "/static/media/game_ludo.6ab79b2c0f6e7bb7394a453d488b1edc.svg",
+    "static/media/cexch.svg": "/static/media/cexch.fa6f060249947ba4b5771567c4c8105b.svg",
+    "static/media/shopping.svg": "/static/media/shopping.9e2c84a0a1930c574571eb0f1d6c4d55.svg",
+    "static/media/product.svg": "/static/media/product.84e846d9d40494a9579deea5be865280.svg",
+    "static/media/service_card.svg": "/static/media/service_card.ea2cbbad9388cbdae743264b6298926c.svg",
+    "static/media/blockchain.svg": "/static/media/blockchain.67f0396247751d60efaa5eef74dfa905.svg",
+    "static/media/cryptoinvest.svg": "/static/media/cryptoinvest.50a405923cd25d0d49a841f3da690ba8.svg",
+    "static/media/web3.svg": "/static/media/web3.e4502a235cbfb93d13e345f8433763e8.svg",
+    "static/media/bitcoin.svg": "/static/media/bitcoin.46ce5fbe0dc5af94a712128a61d3d5bf.svg",
     "index.html": "/index.html",
-    "main.ea62d67b.css.map": "/static/css/main.ea62d67b.css.map",
-    "main.6846723b.js.map": "/static/js/main.6846723b.js.map"
+    "main.ddf59967.css.map": "/static/css/main.ddf59967.css.map",
+    "main.d62ad838.js.map": "/static/js/main.d62ad838.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea62d67b.css",
-    "static/js/main.6846723b.js"
+    "static/css/main.ddf59967.css",
+    "static/js/main.d62ad838.js"
   ]
 }
