@@ -1,0 +1,55 @@
+.intro-text {
+  color: white;
+  font-weight: 500;
+  font-size: 3.5rem;
+  padding-top: 60px;
+  position: relative;
+  animation: divslidin 1s;
+}
+
+@keyframes divslidin {
+  0% {
+    left: -150px;
+  }
+  100% {
+    left: 0;
+  }
+}
+
+.img-card {
+  background: none;
+  height: 460px;
+  padding-top: 50px;
+  width: auto;
+  position: relative;
+  animation: updown 3s infinite;
+}
+
+@keyframes updown {
+  0% {
+    top: 0px;
+  }
+  50% {
+    top: -50px;
+  }
+  100% {
+    top: 0px;
+  }
+}
+
+.myBtn {
+  color: white;
+  background-color: #524dd0;
+  padding: 6px 47px;
+  font-size: 2rem;
+  font-weight: 500;
+  border: none;
+  border-radius: 8px;
+  border: 2px solid #524dd0;
+}
+
+.myBtn:hover{
+  transition: 0.15s all ease-in-out;
+  color: #7c78e9;
+  background-color: transparent;
+}

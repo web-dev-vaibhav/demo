@@ -1,0 +1,62 @@
+.mainTitle{
+    color: #524dd0;
+    border-bottom: 3px solid #524dd0;
+    text-decoration: none;
+    font-size: 2.5rem;
+    font-weight: 600;
+    animation: titleanim 1s;
+    position: relative;
+}
+
+.mainTitle:hover{
+  color: #524dd0;
+}
+
+@keyframes titleanim {
+  0% {
+    top: 50px;
+  }
+  100% {
+    top: 0;
+  }
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+
+.desc {
+  line-height: 1.8;
+  font-size: 1.2rem;
+}
+
+.leftCard-anim{
+  position: relative;
+  animation: leftin 1s;
+  overflow-x: auto;
+}
+
+.rightCard-anim{
+  position: relative;
+  animation: rightin 1s;
+  overflow-x: auto;
+}
+
+@keyframes leftin {
+  0% {
+    left: -120px;
+  }
+  100% {
+    left: 0;
+  }
+}
+
+@keyframes rightin {
+  0% {
+    right: -120px;
+  }
+  100% {
+    right: 0;
+  }
+}
